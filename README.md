@@ -1,7 +1,5 @@
 # 🎬 Filmes Favoritos
 
----
-
 Um simples aplicativo web para gerenciar filmes favoritos, permitindo adicionar novos filmes, marcar/desmarcar como favorito e salvar as preferências no LocalStorage do navegador.
 
 ---
