@@ -11,8 +11,6 @@ Um simples aplicativo web para gerenciar filmes favoritos, permitindo adicionar 
 - ❤️ Marcar e desmarcar filmes como favoritos.
 - 💾 Salvar a lista de filmes favoritos no LocalStorage.
 
----
-
 ## 💻 Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página.
